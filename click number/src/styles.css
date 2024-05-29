@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+.circle {
+  background-color: rgb(135, 235, 165);
+  border-radius: 30px;
+  height: 60px;
+  width: 60px;
+  font-size: 30px;
+  font-style: italic;
+  position: relative;
+}
